@@ -1,0 +1,24 @@
+
+#Fill in these variables and rename file to terraform.tfvars
+#Access Key and Secret Key for AWS connection
+access_key = ""
+secret_key = ""
+
+#ami (example: ami-60b6c60a)
+ami = ""
+
+#Instance Type - (example: t2.nano)
+inst_type = ""
+
+#Security Groups to apply
+security_groups = ""
+
+#Name of instance to show in AWS Console
+name = ""
+
+#AWS SSH Keyname and full path (including pem file) to connect to server via SSH
+keyname = ""
+sshkey = ""
+
+#Dashing dashboard name
+dashboard = ""
