@@ -6,9 +6,9 @@
 #Script assumes you have GAM installed from https://github.com/jay0lee/GAM
 #And it is located at ~/bin/gam/gam
 
-#DONT FORGET TO add a default password, update group names, locations and domain
+#DONT FORGET TO add a default password, update group names, locations, and domain
 
-#Review comments in each section to understand necessary replacements
+#IMPORTANT: Review comments in each section to understand necessary replacements
 
 #FIND AND RFEPLACE @domain.com with ACTAUL domain
 
