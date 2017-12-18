@@ -18,7 +18,7 @@ read -p 'Last Name: ' lastnamevar
 read -p 'Office: ' officevar
 read -p 'Platform(mac, win): ' platformvar
 read -p 'Dept: ' depvar
-read -p 'GoToMeeting? (yes/no)' gtmvar
+read -p 'GoToMeeting? (yes/no): ' gtmvar
 
 #Join first and last name and make lowercase to create username
 tempvar=$firstnamevar.$lastnamevar
